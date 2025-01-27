@@ -1,4 +1,4 @@
-package com.fluir
+package com.luigimorim.Fluir
 
 import android.os.Build
 import android.os.Bundle

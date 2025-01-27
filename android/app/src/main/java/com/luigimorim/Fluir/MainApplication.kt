@@ -1,4 +1,4 @@
-package com.fluir
+package com.luigimorim.Fluir
 
 import android.app.Application
 import android.content.res.Configuration
