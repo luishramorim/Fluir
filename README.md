@@ -24,4 +24,4 @@ Este projeto foi desenvolvido com **React Native** utilizando o framework **Expo
 ├── screens/              # Telas do aplicativo (Home)
 └── components/           # Arquivos de temas
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-27 at 14 32 29](https://github.com/user-attachments/assets/04d34168-b9dd-4196-82cd-afff033b2a00)
+![Homescreen](https://github.com/user-attachments/assets/0d45d986-c377-4105-ba51-788bc831b9fa)
